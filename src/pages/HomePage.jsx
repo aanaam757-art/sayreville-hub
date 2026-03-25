@@ -23,7 +23,7 @@ export default function HomePage() {
               <button
                 type="button"
                 className="btn"  
-                   onClick= {()=>navigate(" /directory")}
+                   onClick= {()=> navigate("/directory")}
               >
                    Browse Resources
               </button>
